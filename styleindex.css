@@ -1,0 +1,29 @@
+*{box-sizing: border-box;
+	font-family: Arial, helvetica, sans-serif;
+}
+
+body{margin: 0;
+    font-family: Arial, helvetica, sans-serif;
+    }
+
+.topnav{overflow: hidden;
+	   background-color: #333;
+       }
+
+.topnav a{float:left;
+display: block;
+color: #f2f2f2;
+padding: 14px 16px;
+text-decoration: none;}
+
+.topnav a:hover{background-color: #ddd;
+                    color: black;}
+
+.content{background-color: none;
+padding: 10px;
+height: 200px;
+}
+
+.footer{background-color: none;
+padding: 10px;
+text-align: center;}
